@@ -4,3 +4,7 @@ hashtable = {}
 hashtable[0] = "world"
 hashtable["hello"] = "worl"
 print( hashtable.get(0))
+
+num = None
+x = num or 0;
+print(x)

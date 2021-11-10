@@ -4,7 +4,5 @@ def isValidSubsequence(array, sequence):
 	    if i == len(sequence):
 		    return True
 	    if sequence[i] == num:
-			i +=1
-			print(i)
-			print(num)
+		    i +=1
     return i == len(sequence)
