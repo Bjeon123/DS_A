@@ -7,4 +7,5 @@ print( hashtable.get(0))
 
 num = None
 x = num or 0;
+y = not True
 print(x)
