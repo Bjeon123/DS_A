@@ -2,8 +2,7 @@
 import sys
 
 hashtable = {}
-hashtable[0] = "world"
-hashtable["hello"] = "worl"
+hashtable[0] = 1
 print( hashtable.get(0))
 
 num = None
