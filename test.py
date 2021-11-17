@@ -15,4 +15,4 @@ arr = [1,2,3,4,5]
 #     print(arr[num])
 
 print((True or False) and True )
-print(arr[3:])
+print(3*"A")
