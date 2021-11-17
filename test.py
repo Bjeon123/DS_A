@@ -12,5 +12,8 @@ y = not True
 # print(None < 10)
 
 arr = [1,2,3,4,5]
-for num in range(len(arr)-1):
-    print(arr[num])
+# for num in range(len(arr)-1):
+#     print(arr[num])
+
+print((True or False) and True )
+print(7/2)
