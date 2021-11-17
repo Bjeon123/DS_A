@@ -6,5 +6,3 @@ def minimumWaitingTime(queries):
 		curr_queue_time += queries[idx]
 		total_waiting_time += curr_queue_time
 	return total_waiting_time
-    # Write your code here.
-    return 0
