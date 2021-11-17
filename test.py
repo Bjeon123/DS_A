@@ -16,4 +16,4 @@ arr = [1,2,3,4,5]
 #     print(arr[num])
 
 print((True or False) and True )
-print(7/2)
+print(arr[3:])
