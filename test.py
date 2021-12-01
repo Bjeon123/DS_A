@@ -33,6 +33,7 @@ arr2= [4,5]
 arr.pop(2)
 print(arr)
 
+print([1,2]==[2,1])
 # i=1
 # if i==1:
 #     print("hello")
